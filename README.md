@@ -1,5 +1,5 @@
 # m8k
-A utility client for m4k, maintained by cv and yagton (aka tlras).
+A utility client for m4k, maintained by cv and yagton *(aka tlras)*.
 
 ## What does m8k add to m4k?
 Here's a list of differences from the main client:
