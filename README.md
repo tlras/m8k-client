@@ -8,6 +8,7 @@ Here's a list of differences from the main client:
 * Access hidden blocks in menu.
 * Pick selected block via MMB.
 * Ability to set custom speed.
+* Ability to teleport back to spawn.
 ```
 
 ## How do I get m8k?
@@ -19,6 +20,7 @@ There are two options for using m8k:
 Here are the controls:
 ```
 f - toggle noclip/flight
+r - teleport to spawn
 ` - change player (& flight) speed
 
 middle mouse button - copy selected block
