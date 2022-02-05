@@ -5,10 +5,12 @@ A utility client for m4k, maintained by cv and yagton *(aka tlras)*.
 Here's a list of differences from the main client:
 ```
 * Ability to fly and noclip.
+* Place or break blocks quickly.
 * Access hidden blocks in menu.
 * Pick selected block via MMB.
 * Ability to set custom speed.
 * Ability to teleport back to spawn.
+* Set custom FOV.
 ```
 
 ## How do I get m8k?
@@ -21,7 +23,11 @@ Here are the controls:
 ```
 f - toggle noclip/flight
 r - teleport to spawn
+e - hold to enable fast break/place
 ` - change player (& flight) speed
+= - type in a custom FOV
+[ - increase FOV by 1 degree
+] - decrease FOV by 1 degree
 
 middle mouse button - copy selected block
 ```
