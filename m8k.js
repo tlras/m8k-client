@@ -7,8 +7,8 @@
 // @author       yagton
 // @match        https://2s4.me/m4k/gl
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/tlras/m8k-client/master/m8k.js
-// @downloadURL  https://raw.githubusercontent.com/tlras/m8k-client/master/m8k.js
+// @updateURL    https://raw.githubusercontent.com/tlras/m8k-client/master/m8k.user.js
+// @downloadURL  https://raw.githubusercontent.com/tlras/m8k-client/master/m8k.user.js
 // @supportURL   https://github.com/tlras/m8k-client/issues
 // @require      binds.js
 // ==/UserScript==
