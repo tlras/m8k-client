@@ -1,12 +1,15 @@
 // ==UserScript==
 // @name         m8k-gl
 // @version      1.0-alpha5.4
+// @namespace    https://github.com/tlras
 // @description  utility client for m4k (WebGL)
+// @license      Apache-2.0
 // @author       yagton
 // @match        https://2s4.me/m4k/gl
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/tlras/m8k-client/master/m8k.js
 // @downloadURL  https://raw.githubusercontent.com/tlras/m8k-client/master/m8k.js
+// @supportURL   https://github.com/tlras/m8k-client/issues
 // @require      binds.js
 // ==/UserScript==
 
