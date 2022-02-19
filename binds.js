@@ -7,8 +7,8 @@
  * this notice are preserved. This file is offered as-is, without any warranty. */
 
 var KeybindManager = (() => {
-    keydown_binds = [];
-    keyup_binds = [];
+    let keydown_binds = [];
+    let keyup_binds = [];
 
     return {
         adddown: (key, func) => {
